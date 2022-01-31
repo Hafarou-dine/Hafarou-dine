@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hafarou-dine
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development at ADRAR
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Development at ADRAR
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me email: hafaroupro@gmail.com or github_username: Hafarou-dine
 
